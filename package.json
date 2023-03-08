@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "base-64": "^1.0.0",
+    "discord-api-types": "^0.37.35",
+    "discord.js": "^14.7.1",
+    "dotenv-vault": "^1.18.0",
+    "fs": "^0.0.1-security"
+  },
+  "name": "e",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LovreDev/a.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LovreDev/a/issues"
+  },
+  "homepage": "https://github.com/LovreDev/a#readme",
+  "description": ""
+}
