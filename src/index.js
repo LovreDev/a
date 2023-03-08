@@ -1,4 +1,4 @@
-require("dotenv").config();
+require('dotenv-vault-core').config();
 
 const { Client, Collection, GatewayIntentBits } = require("discord.js");
 const { token } = process.env;
